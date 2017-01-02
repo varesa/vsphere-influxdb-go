@@ -2,6 +2,8 @@
 
 # Extenal dependencies
 
+You need to have Go 1.7 or newer in order to install the following dependencies:
+
 * [govmomi](https://github.com/vmware/govmomi)
 * [influxDB go client](https://github.com/influxdata/influxdb/tree/master/client/v2)
 
